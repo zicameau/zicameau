@@ -16,5 +16,3 @@ Javascript,
 Most of my time at University has been spent learning about verification and validation. In other words, ensuring that we are building the product right and ensuring that we are building the right product respectively. These two terms can encompass nearly all of my education as all other subjects branch from these two terms.
 
 ![alt text](IMG_20200809_092034.jpg)
-![alt text](IMG_20200630_120155.jpg)
-![alt text](IMG_20200613_172332.jpg)
