@@ -1,6 +1,6 @@
 ### Adventure and Coding
 
-Hello! My name is Trevor and welcome to my Github profile readme. I am a nearly graduated undergraduate student coming out of San Jose State University with a Bachelor's in Software Engineering. I spend most of my time here working on personal projects or contributing to school projects currently.
+Hello! My name is Trevor and welcome to my Github profile readme. I am a Software Engineer who spends his time socializing, and exploring interesting ideas. Most of the time I spend on Github I spend it contributing to personal projectst that I am currently working on.
 
 Languages I Excel At:
 Python 3,
